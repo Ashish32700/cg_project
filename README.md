@@ -1,9 +1,9 @@
 # Interactive Firework Animation
-# # Team Name 
-# # # Visual Wizards 
-# # Team Members 
-### Ramjas Langdi (102117159)###
-### Ashish Verma (102117164)###
+## Team Name 
+### Visual Wizards 
+## Team Members 
+### Ramjas Langdi (102117159)
+### Ashish Verma (102117164)
 
 
 CG-PROJECT
